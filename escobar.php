@@ -65,7 +65,7 @@ for($i=0;$i<$___;$i++) {
 			<header>
 				<div class="y x">
 					<a class="ajx" href="<?php echo basename($_SERVER['PHP_SELF']);?>">
-						PABLO ESCOBAR
+						PABLOeESCOBAR
 					</a>
 				</div>
 
